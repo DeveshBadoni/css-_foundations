@@ -1,0 +1,1 @@
+In this chapter, we are using the Descendent Combinator property to understand the property of class descendence or class inheritance.
