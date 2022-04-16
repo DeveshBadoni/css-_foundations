@@ -1,0 +1,1 @@
+In this chapter, we are focusing on how to use Chaining Selectors to our advantage to change the proportions of two images.
