@@ -1,0 +1,15 @@
+.box,
+.box2 {
+    font-size: 28px;
+    font-family: "Times New Roman", Helvetica, sans-serif;
+}
+
+.box {
+    background-color: black;
+    color: white;
+}
+
+.box2 {
+    background-color: yellow;
+    color: black;
+}

@@ -1,0 +1,1 @@
+In this chapter, we have tried to use Grouping Selector property of CSS to define common properties under one single curly brackets.
