@@ -1,0 +1,1 @@
+Here, in this chapter, I have tried to implement every concept from ch-01 to ch-05 and tried to make a sensible web front out of it, understanding and implementing the properties on the way.
