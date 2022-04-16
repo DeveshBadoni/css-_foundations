@@ -1,0 +1,1 @@
+In this chapter, we are exploring Class and IDs in CSS and how to use them in our HTML code to make local and regional changes and prevent writing the same code multiple times.
