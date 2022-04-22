@@ -1,0 +1,1 @@
+In this chapter, we are learning how margins and padding work with another example.
