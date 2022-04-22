@@ -1,0 +1,1 @@
+In this part, we are learning about the Box Model and how every element we see on our screen is a box and how all boxes interact with each other.
